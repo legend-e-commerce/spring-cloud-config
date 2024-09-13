@@ -1,6 +1,7 @@
 token:
   expiration_time: 86400000
-  secret: aksdjwoieflskdjfilsjdkflweikdfsdfjsldkjfwlkdjfskdjlfk
+  secret: hello
 
 gateway:
   ip: 192.168.2.8
+# aksdjwoieflskdjfilsjdkflweikdfsdfjsldkjfwlkdjfskdjlfk
